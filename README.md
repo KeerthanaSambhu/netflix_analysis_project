@@ -1,7 +1,6 @@
 # Netflix Data Analysis Project
 **By Keerthana Sambhu**
 
-<<<<<<< HEAD
 <p align="center">
   
   <!-- Python version -->
