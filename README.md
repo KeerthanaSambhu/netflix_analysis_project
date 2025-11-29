@@ -75,6 +75,3 @@ git clone [https://github.com/KeerthanaSambhu/netflix_analysis_project.git](http
 ---
 
 **Keerthana Sambhu — Project Complete!**
-
-
-## Project Structure
