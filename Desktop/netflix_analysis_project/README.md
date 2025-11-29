@@ -147,7 +147,7 @@ git clone https://github.com/KeerthanaSambhu/netflix\_analysis\_project.git
 
 
 
-\*\*Keerthana Sambhu — Project Complete! 💅\*\*
+\*\*Keerthana Sambhu — Project Complete! \*\*
 
 
 
