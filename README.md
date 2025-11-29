@@ -25,7 +25,7 @@ This project explores Netflix’s content library, including Movies and TV Shows
 ## Visualizations
 
 ### Movies vs TV Shows
-![Movies vs TV Shows] (plots/movies_vs_tv.png)
+![Movies vs TV Shows](plots/movies_vs_tv.png)
 
 ### Top Genres
 ![Top Genres](plots/top_genres.png)
