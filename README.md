@@ -6,7 +6,7 @@ Netflix Data Analysis Project is a complete exploratory data analysis (EDA) proj
 It analyzes Movies vs TV Shows, ratings, genres, release trends, and most featured actors/directors.
 The project includes a Jupyter notebook and compiled visualizations to clearly understand how Netflix content is structured and evolving.
 
-## Key Objectives
+## 🔍 Key Objectives
 
 - Explore Netflix content by **type** (Movies vs TV Shows)
 - Analyze **genres**, **ratings**, and **countries**
@@ -14,13 +14,13 @@ The project includes a Jupyter notebook and compiled visualizations to clearly u
 - Observe **trends over time** (added year, release year)
 - Create **interactive and static visualizations** for insights
 
-## Dataset
+## 📁 Dataset
 
 - Source: netflix_titles.csv (available in /data folder or via Kaggle)
 - 8807 entries
 - 12+ columns including title, type, release_year, rating, listed_in (genres), cast, director, country
 
-## Visualizations
+## 📊 Visualizations
 
 ### Movies vs TV Shows
 
@@ -34,7 +34,7 @@ The project includes a Jupyter notebook and compiled visualizations to clearly u
 
 ![Rating Distribution](plots/rating_distribution.png)
 
-## Key Insights
+## 💡 Key Insights
 
 - Netflix has **more Movies than TV Shows**
 - Most popular genres: **International, Dramas, Comedies**
@@ -42,14 +42,14 @@ The project includes a Jupyter notebook and compiled visualizations to clearly u
 - Prolific actors and directors dominate multiple titles
 - Netflix content growth has been increasing year by year
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Python, Pandas, NumPy
 - Jupyter Notebook
 - Matplotlib, Seaborn, Plotly
 - Git & GitHub
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 netflix_analysis_project/
@@ -65,7 +65,7 @@ netflix_analysis_project/
 ```
 
 
-## How to Run
+## ▶️ How to Run
 
 1. Clone the repository:
 
