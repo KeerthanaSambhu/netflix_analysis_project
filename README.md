@@ -1,6 +1,24 @@
 # Netflix Data Analysis Project
-
 **By Keerthana Sambhu**
+
+<p align="center">
+  
+  <!-- Python version -->
+  <img src="https://img.shields.io/badge/Python-3.10-blue" alt="Python">
+
+  <!-- Jupyter Notebook -->
+  <img src="https://img.shields.io/badge/Notebook-Jupyter-orange" alt="Jupyter">
+
+  <!-- License -->
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
+
+  <!-- GitHub last commit -->
+  <img src="https://img.shields.io/github/last-commit/KeerthanaSambhu/netflix_analysis_project" alt="Last Commit">
+
+  <!-- Repo size -->
+  <img src="https://img.shields.io/github/repo-size/KeerthanaSambhu/netflix_analysis_project" alt="Repo Size">
+
+</p>
 
 This project explores Netflix’s content library, including Movies and TV Shows, genres, ratings, actors, directors, and trends over time.
 
