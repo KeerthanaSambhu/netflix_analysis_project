@@ -1,6 +1,7 @@
 # Netflix Data Analysis Project
 **By Keerthana Sambhu**
 
+<<<<<<< HEAD
 <p align="center">
   
   <!-- Python version -->
@@ -21,8 +22,13 @@
 </p>
 
 This project explores Netflix’s content library, including Movies and TV Shows, genres, ratings, actors, directors, and trends over time.
+=======
+Netflix Data Analysis Project is a complete exploratory data analysis (EDA) project on the Netflix titles dataset.
+It analyzes Movies vs TV Shows, ratings, genres, release trends, and most featured actors/directors.
+The project includes a Jupyter notebook and compiled visualizations to clearly understand how Netflix content is structured and evolving.
+>>>>>>> f3a047d53291f3058ab59cbb418553f4b70b8ccc
 
-## Key Objectives
+## 🔍 Key Objectives
 
 - Explore Netflix content by **type** (Movies vs TV Shows)
 - Analyze **genres**, **ratings**, and **countries**
@@ -30,13 +36,13 @@ This project explores Netflix’s content library, including Movies and TV Shows
 - Observe **trends over time** (added year, release year)
 - Create **interactive and static visualizations** for insights
 
-## Dataset
+## 📁 Dataset
 
 - Source: netflix_titles.csv (available in /data folder or via Kaggle)
 - 8807 entries
 - 12+ columns including title, type, release_year, rating, listed_in (genres), cast, director, country
 
-## Visualizations
+## 📊 Visualizations
 
 ### Movies vs TV Shows
 
@@ -50,7 +56,7 @@ This project explores Netflix’s content library, including Movies and TV Shows
 
 ![Rating Distribution](plots/rating_distribution.png)
 
-## Key Insights
+## 💡 Key Insights
 
 - Netflix has **more Movies than TV Shows**
 - Most popular genres: **International, Dramas, Comedies**
@@ -58,14 +64,14 @@ This project explores Netflix’s content library, including Movies and TV Shows
 - Prolific actors and directors dominate multiple titles
 - Netflix content growth has been increasing year by year
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - Python, Pandas, NumPy
 - Jupyter Notebook
 - Matplotlib, Seaborn, Plotly
 - Git & GitHub
 
-## Project Structure
+## 📂 Project Structure
 
 ```
 netflix_analysis_project/
@@ -81,7 +87,7 @@ netflix_analysis_project/
 ```
 
 
-## How to Run
+## ▶️ How to Run
 
 1. Clone the repository:
 
