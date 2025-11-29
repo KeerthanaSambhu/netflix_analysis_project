@@ -48,16 +48,19 @@ This project explores Netflix’s content library, including Movies and TV Shows
 - Git & GitHub
 
 ## Project Structure
+
+```
 netflix_analysis_project/
 ├── data/
-│ └── netflix_titles.csv
+│   └── netflix_titles.csv
 ├── notebooks/
-│ └── netflix_analysis.ipynb
+│   └── netflix_analysis.ipynb
 ├── plots/
-│ ├── movies_vs_tv.png
-│ ├── top_genres.png
-│ └── rating_distribution.png
+│   ├── movies_vs_tv.png
+│   ├── top_genres.png
+│   └── rating_distribution.png
 └── README.md
+```
 
 
 ## How to Run
