@@ -25,7 +25,6 @@ This project explores Netflix’s content library, including Movies and TV Shows
 Netflix Data Analysis Project is a complete exploratory data analysis (EDA) project on the Netflix titles dataset.
 It analyzes Movies vs TV Shows, ratings, genres, release trends, and most featured actors/directors.
 The project includes a Jupyter notebook and compiled visualizations to clearly understand how Netflix content is structured and evolving.
->>>>>>> f3a047d53291f3058ab59cbb418553f4b70b8ccc
 
 ## 🔍 Key Objectives
 
@@ -95,5 +94,6 @@ git clone https://github.com/KeerthanaSambhu/netflix_analysis_project.git
 Open notebooks/netflix_analysis.ipynb in Jupyter Notebook
 
 Run the cells sequentially to explore the analysis
+```
+KEERTHANA SAMBHU-- PROJECT COMPLETED
 
-Keerthana Sambhu — Project Complete!
