@@ -59,6 +59,7 @@ netflix_analysis_project/
 │ └── rating_distribution.png
 └── README.md
 
+
 ## How to Run
 
 1. Clone the repository:
